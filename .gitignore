@@ -121,7 +121,6 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 env/
 venv/
 ENV/
@@ -160,3 +159,4 @@ cython_debug/
 #.idea/
 
 .DS_Store
+wandb/
